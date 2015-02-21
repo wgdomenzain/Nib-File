@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  View2.h
 //  Nib Example
 //
 //  Created by Walter Gonzalez Domenzain on 21/02/15.
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-- (IBAction)btnExitPressed:(id)sender;
-
+@interface View2 : UIViewController
 
 @end
-

@@ -15,6 +15,16 @@
 		D15226FC1A98DEB60071EA71 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D15226FB1A98DEB60071EA71 /* Images.xcassets */; };
 		D15226FF1A98DEB60071EA71 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D15226FD1A98DEB60071EA71 /* LaunchScreen.xib */; };
 		D152270B1A98DEB60071EA71 /* Nib_ExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D152270A1A98DEB60071EA71 /* Nib_ExampleTests.m */; };
+		D15227181A98DF5D0071EA71 /* cellOaxaca.m in Sources */ = {isa = PBXBuildFile; fileRef = D15227161A98DF5D0071EA71 /* cellOaxaca.m */; };
+		D15227191A98DF5D0071EA71 /* cellOaxaca.xib in Resources */ = {isa = PBXBuildFile; fileRef = D15227171A98DF5D0071EA71 /* cellOaxaca.xib */; };
+		D152271F1A98E3230071EA71 /* baseball_bckg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D152271B1A98E3230071EA71 /* baseball_bckg.jpg */; };
+		D15227201A98E3230071EA71 /* culiacan.png in Resources */ = {isa = PBXBuildFile; fileRef = D152271C1A98E3230071EA71 /* culiacan.png */; };
+		D15227211A98E3230071EA71 /* mazatlan.png in Resources */ = {isa = PBXBuildFile; fileRef = D152271D1A98E3230071EA71 /* mazatlan.png */; };
+		D15227221A98E3230071EA71 /* mochis.png in Resources */ = {isa = PBXBuildFile; fileRef = D152271E1A98E3230071EA71 /* mochis.png */; };
+		D15227261A98E5C70071EA71 /* PopupView.m in Sources */ = {isa = PBXBuildFile; fileRef = D15227241A98E5C70071EA71 /* PopupView.m */; };
+		D15227271A98E5C70071EA71 /* PopupView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D15227251A98E5C70071EA71 /* PopupView.xib */; };
+		D152272B1A98E9FD0071EA71 /* View2.m in Sources */ = {isa = PBXBuildFile; fileRef = D15227291A98E9FD0071EA71 /* View2.m */; };
+		D152272C1A98E9FD0071EA71 /* View2.xib in Resources */ = {isa = PBXBuildFile; fileRef = D152272A1A98E9FD0071EA71 /* View2.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +52,19 @@
 		D15227041A98DEB60071EA71 /* Nib ExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nib ExampleTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D15227091A98DEB60071EA71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D152270A1A98DEB60071EA71 /* Nib_ExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Nib_ExampleTests.m; sourceTree = "<group>"; };
+		D15227151A98DF5D0071EA71 /* cellOaxaca.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cellOaxaca.h; sourceTree = "<group>"; };
+		D15227161A98DF5D0071EA71 /* cellOaxaca.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cellOaxaca.m; sourceTree = "<group>"; };
+		D15227171A98DF5D0071EA71 /* cellOaxaca.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = cellOaxaca.xib; sourceTree = "<group>"; };
+		D152271B1A98E3230071EA71 /* baseball_bckg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = baseball_bckg.jpg; path = "Nib Example/baseball_bckg.jpg"; sourceTree = "<group>"; };
+		D152271C1A98E3230071EA71 /* culiacan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = culiacan.png; path = "Nib Example/culiacan.png"; sourceTree = "<group>"; };
+		D152271D1A98E3230071EA71 /* mazatlan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mazatlan.png; path = "Nib Example/mazatlan.png"; sourceTree = "<group>"; };
+		D152271E1A98E3230071EA71 /* mochis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mochis.png; path = "Nib Example/mochis.png"; sourceTree = "<group>"; };
+		D15227231A98E5C70071EA71 /* PopupView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopupView.h; sourceTree = "<group>"; };
+		D15227241A98E5C70071EA71 /* PopupView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopupView.m; sourceTree = "<group>"; };
+		D15227251A98E5C70071EA71 /* PopupView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PopupView.xib; sourceTree = "<group>"; };
+		D15227281A98E9FD0071EA71 /* View2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View2.h; sourceTree = "<group>"; };
+		D15227291A98E9FD0071EA71 /* View2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View2.m; sourceTree = "<group>"; };
+		D152272A1A98E9FD0071EA71 /* View2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View2.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +88,8 @@
 		D15226DF1A98DEB60071EA71 = {
 			isa = PBXGroup;
 			children = (
+				D152271A1A98E3130071EA71 /* imgs */,
+				D15227141A98DF2F0071EA71 /* Customized */,
 				D15226EA1A98DEB60071EA71 /* Nib Example */,
 				D15227071A98DEB60071EA71 /* Nib ExampleTests */,
 				D15226E91A98DEB60071EA71 /* Products */,
@@ -120,6 +145,33 @@
 				D15227091A98DEB60071EA71 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D15227141A98DF2F0071EA71 /* Customized */ = {
+			isa = PBXGroup;
+			children = (
+				D15227151A98DF5D0071EA71 /* cellOaxaca.h */,
+				D15227161A98DF5D0071EA71 /* cellOaxaca.m */,
+				D15227171A98DF5D0071EA71 /* cellOaxaca.xib */,
+				D15227231A98E5C70071EA71 /* PopupView.h */,
+				D15227241A98E5C70071EA71 /* PopupView.m */,
+				D15227251A98E5C70071EA71 /* PopupView.xib */,
+				D15227281A98E9FD0071EA71 /* View2.h */,
+				D15227291A98E9FD0071EA71 /* View2.m */,
+				D152272A1A98E9FD0071EA71 /* View2.xib */,
+			);
+			name = Customized;
+			sourceTree = "<group>";
+		};
+		D152271A1A98E3130071EA71 /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				D152271B1A98E3230071EA71 /* baseball_bckg.jpg */,
+				D152271C1A98E3230071EA71 /* culiacan.png */,
+				D152271D1A98E3230071EA71 /* mazatlan.png */,
+				D152271E1A98E3230071EA71 /* mochis.png */,
+			);
+			name = imgs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,8 +254,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D15227221A98E3230071EA71 /* mochis.png in Resources */,
+				D15227191A98DF5D0071EA71 /* cellOaxaca.xib in Resources */,
 				D15226FA1A98DEB60071EA71 /* Main.storyboard in Resources */,
+				D152272C1A98E9FD0071EA71 /* View2.xib in Resources */,
+				D15227271A98E5C70071EA71 /* PopupView.xib in Resources */,
+				D152271F1A98E3230071EA71 /* baseball_bckg.jpg in Resources */,
+				D15227201A98E3230071EA71 /* culiacan.png in Resources */,
 				D15226FF1A98DEB60071EA71 /* LaunchScreen.xib in Resources */,
+				D15227211A98E3230071EA71 /* mazatlan.png in Resources */,
 				D15226FC1A98DEB60071EA71 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -225,6 +284,9 @@
 				D15226F41A98DEB60071EA71 /* Nib_Example.xcdatamodeld in Sources */,
 				D15226F11A98DEB60071EA71 /* AppDelegate.m in Sources */,
 				D15226F71A98DEB60071EA71 /* ViewController.m in Sources */,
+				D152272B1A98E9FD0071EA71 /* View2.m in Sources */,
+				D15227261A98E5C70071EA71 /* PopupView.m in Sources */,
+				D15227181A98DF5D0071EA71 /* cellOaxaca.m in Sources */,
 				D15226EE1A98DEB60071EA71 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
